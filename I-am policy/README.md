@@ -10,3 +10,6 @@ The user has read-only access to describe and list EC2 instances (DescribeInstan
 
 c. Deny Termination of Instances (All Regions):
 The policy explicitly denies the ability to terminate EC2 instances (TerminateInstances), preventing accidental or unauthorized deletion of any instan
+
+<img width="478" alt="policy" src="https://github.com/user-attachments/assets/e2debbc7-9e3d-4771-881b-aca10db11688" />
+
