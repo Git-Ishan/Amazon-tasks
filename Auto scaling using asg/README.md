@@ -15,7 +15,7 @@
 
 - Once the EC2 is configured:
   - Go to Actions → Image → Create Image
-  - Name it (e.g., `MyWebServer`)
+  - Name it (e.g., `ASG-custom-AMI`)
 
 <img width="906" alt="2" src="https://github.com/user-attachments/assets/08291c3f-9063-4ded-9625-e9f5bc28b371" />
 
