@@ -49,6 +49,7 @@
 
 1. EC2 → Instances
 <img width="899" alt="6" src="https://github.com/user-attachments/assets/c33398b6-b763-4af2-97f9-a4bcd517a6fa" />
+
 2. Terminate one instance launched by ASG
    
 3. ASG will automatically launch a new instance to maintain capacity
