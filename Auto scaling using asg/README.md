@@ -22,7 +22,7 @@
 
 ### 3. Create a Launch Template
 
-  - Name: `WebServerTemplate`
+  - Name: `ASG-Launch-Template`
   - AMI: Use the AMI created above
   - Instance Type: e.g., `t2.micro`
   - Security Group : Allow HTTP (port 80) and SSH (port 22)  
