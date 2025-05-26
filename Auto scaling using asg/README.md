@@ -33,7 +33,7 @@
 
 ### 4. Create Auto Scaling Group (ASG)
 
-- Name your ASG (e.g., `WebServerASG`)
+- Name your ASG (e.g., `ASG-test-group`)
 - Choose Launch Template you created
 - Select VPC and Subnets
 - Set Desired, Min, and Max capacity:
