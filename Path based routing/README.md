@@ -54,7 +54,6 @@ Rules:
 
 Open a browser and verify:
 
-http://<ALB-DNS>/app1 → displays content from Target Group A
 
 <img width="748" alt="7" src="https://github.com/user-attachments/assets/5b7324ef-c8ad-4eb6-a3d6-77fc1e042b01" />
 
